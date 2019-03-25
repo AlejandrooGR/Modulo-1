@@ -1,0 +1,75 @@
+.logo{
+    float: left;
+    width: 10%
+}
+
+h1{
+    margin-left: 12%;
+    color:black;
+    padding-top: 1%
+    
+}
+
+body{
+    background-color: honeydew;
+    margin: auto;
+    margin-top: 70px;
+    margin-left: 80px;
+}
+
+ul {
+    margin-left: 9.5%;
+    padding-top: 1%
+}
+
+.lista ul
+{
+   padding-right: 0px;
+   padding-left: 0px;
+   padding-bottom: 0px;
+   padding-top: 0px;
+   margin: 0px;
+
+}
+.lista li
+{
+   list-style-type: none;
+   display: inline;
+   padding-right: 5px;
+   color: blue;
+}
+
+.home{
+    color: black
+}
+
+.image1{
+    float: left;
+    width: 15%
+}
+
+h2{
+    margin-left: 18%;
+    color:black;
+    padding-top: 0%
+}
+
+
+.p1{
+    margin-left: 20%;
+    color:black;
+    font-style: italic;
+    font-weight:bold;
+}
+
+.p2{
+    margin-left: 22%;
+    color:black;
+    padding-top: 0%;
+    margin-top: 0%;
+    
+}
+
+* {
+font-family: cursive; 
+}
